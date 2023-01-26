@@ -1,0 +1,13 @@
+
+k
+java:S1450"URemove the "server" field and declare it as a local variable in the relevant methods.(¦ºËÁ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–¢ò¬ýÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(¼½ùB
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¥õ¯øÿÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ØÐÓµúÿÿÿÿ
++
+java:S1700"Rename field "server"(¦ºËÁ
+0
+java:S1220""Move this file to a named package.
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(°Ñâõ

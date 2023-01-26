@@ -1,0 +1,13 @@
+
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Óº£‰ýÿÿÿÿ
+T
+java:S18748"9Remove this use of "HTTP_SERVER_ERROR"; it is deprecated.(ô®ß“ýÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'Response.EventResponse'.(ªÂˆþúÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'Service.EventService'.(£ìú¼
+P
+java:S1191
+"5Use classes from the Java API instead of Sun classes.(¬„úïùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ç•Ñ

@@ -1,0 +1,14 @@
+
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ûî€åüÿÿÿÿ
+T
+java:S18743"9Remove this use of "HTTP_SERVER_ERROR"; it is deprecated.(ô®ß“ýÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'Response.FillResponse'.(úÀ±‡
+F
+java:S1128"0Remove this unused import 'Service.FillService'.(»³ùæ
+M
+java:S1128"7Remove this unused import 'passoffrequest.FillRequest'.(™³ñë
+K
+java:S1191	"5Use classes from the Java API instead of Sun classes.(üÕÙä
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ç•Ñ
